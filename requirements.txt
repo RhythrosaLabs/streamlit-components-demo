@@ -1,0 +1,5 @@
+streamlit>=1.28.0
+streamlit-kanban>=0.3.0
+streamlit-audio-editor>=0.4.0
+streamlit-stepper>=0.3.0
+streamlit-node-editor>=0.3.0
