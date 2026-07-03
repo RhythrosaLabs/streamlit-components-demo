@@ -45,3 +45,8 @@ streamlit run app.py
 ## License
 
 MIT
+
+
+## Support
+
+If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
