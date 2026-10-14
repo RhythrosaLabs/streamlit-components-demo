@@ -11,7 +11,7 @@
 
 🚀 **[Launch on Streamlit Cloud →](https://streamlit-components-demo.streamlit.app)**
 
-<img src="assets/demo/components-demo.gif" width="100%" alt="Streamlit Components Demo: kanban, audio editor, stepper and node editor components">
+<img src="https://github.com/RhythrosaLabs/streamlit-components-demo/raw/main/assets/demo/components-demo.gif" width="100%" alt="Streamlit Components Demo: kanban, audio editor, stepper and node editor components">
 
 </div>
 
