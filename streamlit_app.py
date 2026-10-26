@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Streamlit Components Demo", layout="wide", page_icon="🧩")
 
 st.title("🧩 Streamlit Components Showcase")
-st.caption("Four custom components by Dan Sheils — Kanban · Audio Editor · Stepper · Node Editor")
+st.caption("Four custom components by [Dan Sheils](https://rhythrosalabs.github.io/) — Kanban · Audio Editor · Stepper · Node Editor")
 
 tab1, tab2, tab3, tab4 = st.tabs(["📋 Kanban", "🎛️ Audio Editor", "🪜 Stepper", "🔗 Node Editor"])
 
