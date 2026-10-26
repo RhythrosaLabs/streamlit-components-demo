@@ -17,7 +17,7 @@
 
 ---
 
-A live showcase of four custom Streamlit components by [RhythrosaLabs](https://github.com/RhythrosaLabs) — each one a production-ready, pip-installable package you can drop into any Streamlit app.
+A live showcase of four custom Streamlit components by [Dan Sheils](https://rhythrosalabs.github.io/) — each one a production-ready, pip-installable package you can drop into any Streamlit app.
 
 ## ✨ Components
 
@@ -65,4 +65,4 @@ If these components save you time, consider supporting development:
 🌐 [Portfolio: rhythrosalabs.github.io](https://rhythrosalabs.github.io) (more apps, music and sound design)
 
 ---
-<div align="center">Made with ❤️ by <a href="https://github.com/RhythrosaLabs">RhythrosaLabs</a></div>
+<div align="center">Built by <a href="https://rhythrosalabs.github.io/">Dan Sheils</a></div>
